@@ -1,0 +1,1 @@
+FINDHR (Fairness and Intersectional Non-Discrimination in Human Recommendation) is a project funded by the EU framework program Horizon Europe and unites 13 partner organizations in developing anti-discrimination methods, algorithms, and training for algorithmic hiring.
